@@ -20,5 +20,8 @@
   "homepage": "https://github.com/NeoSpa/stalker-app#readme",
   "devDependencies": {
     "electron": "^10.1.5"
+  },
+  "dependencies": {
+    
   }
 }
