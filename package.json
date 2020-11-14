@@ -1,0 +1,24 @@
+{
+  "name": "stalker-app",
+  "version": "1.0.0",
+  "description": "An email collector app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoSpa/stalker-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeoSpa/stalker-app/issues"
+  },
+  "homepage": "https://github.com/NeoSpa/stalker-app#readme",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  }
+}
